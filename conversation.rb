@@ -1,0 +1,6 @@
+puts "Hello!"
+ gets "Hi"
+ puts "What do you like to do?"
+ gets "I like to do art."
+ puts " Thats cool. Well Bye"
+ gets "bye!"
